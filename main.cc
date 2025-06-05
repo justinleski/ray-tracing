@@ -25,3 +25,10 @@ int main() {
         }
     }
 }
+
+// on WSL, to compile and run:
+//
+// g++
+// ./a.out > image.ppm
+//
+// This will direct the std::cout to the file using the > operator
